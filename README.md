@@ -1,0 +1,2 @@
+# Multiple_Linear_Regression
+Creating Multiple Linear Regression using scikit learn for building the model while statsmodels was used to optimized  the model by adopting backward elimination method of optimization. In this work, optimization was done by eliminating  any feature which P-value was greater the set level of significant until  features with P-values that were significant obtained and the model was fitted.
